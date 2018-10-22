@@ -17,6 +17,27 @@ body{
     width: 50%;
 }
 
-h3 {
-  text-align: center:
+
+.top-button:visited, .top-button:link {
+  border: solid 2px grey;
+  background-color: grey;
+  padding-top: 5px;
+  padding-bottom: 4px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: white;
+
+}
+
+.top-button:hover {
+  background-color: #6e8ed3;
+  text-decoration: none;
+  color: white;
+  
+}
+
+.top-button-active:visited, .top-button-active:link {
+  border: solid 2px #6e8ed3;
+
 }
