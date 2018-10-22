@@ -5,8 +5,8 @@
 
 body{
   padding-bottom: 20px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 10px;
+  margin-right: 10px;
   font-family: 'Niramit', sans-serif;
 }
 
@@ -40,4 +40,13 @@ body{
 .top-button-active:visited, .top-button-active:link {
   border: solid 2px #6e8ed3;
 
+}
+
+.home-container {
+ padding-top: 5px;
+ padding-bottom: 5px;
+ margin-left: 10px;
+ margin-right: 10px;
+ border: solid 2px #d9d9d9;
+ background-color: #d9d9d9;
 }
