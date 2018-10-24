@@ -50,3 +50,29 @@ body{
  border: solid 2px #d9d9d9;
  background-color: #d9d9d9;
 }
+
+
+.other-button:visited, .other-button:link {
+  border: solid 2px grey;
+  background-color: grey;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-decoration: none;
+  color: white;
+
+}
+
+
+.other-button:hover {
+  background-color: #6e8ed3;
+  text-decoration: none;
+  color: white;
+  
+}
+
+
+.more-items {
+  text-align: center;
+}
