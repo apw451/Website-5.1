@@ -21,8 +21,8 @@ body{
 .top-button:visited, .top-button:link {
   border: solid 2px grey;
   background-color: grey;
-  padding-top: 5px;
-  padding-bottom: 4px;
+  padding-top: 1px;
+  padding-bottom: 1px;
   padding-left: 10px;
   padding-right: 10px;
   text-decoration: none;
